@@ -1,2 +1,2 @@
 # Card-Game
-A port of a scratch game to java, originally by nomishark
+A (unfinished) port of a scratch game to java, originally by nomishark
