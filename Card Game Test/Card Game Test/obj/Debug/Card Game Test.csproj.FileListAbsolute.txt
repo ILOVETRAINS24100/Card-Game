@@ -1,0 +1,6 @@
+C:\Users\Jon70\Documents\SharpDevelop Projects\Card Game Test\Card Game Test\obj\Debug\Card Game Test.csprojResolveAssemblyReference.cache
+C:\Users\Jon70\Documents\SharpDevelop Projects\Card Game Test\Card Game Test\bin\Debug\Card Game Test.exe.config
+C:\Users\Jon70\Documents\SharpDevelop Projects\Card Game Test\Card Game Test\bin\Debug\Card Game Test.exe
+C:\Users\Jon70\Documents\SharpDevelop Projects\Card Game Test\Card Game Test\bin\Debug\Card Game Test.pdb
+C:\Users\Jon70\Documents\SharpDevelop Projects\Card Game Test\Card Game Test\obj\Debug\Card Game Test.exe
+C:\Users\Jon70\Documents\SharpDevelop Projects\Card Game Test\Card Game Test\obj\Debug\Card Game Test.pdb
